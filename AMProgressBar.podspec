@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Abdul Moiz' => 'abdul.moiz1991@gmail.com' }
   s.source           = { :git => 'https://github.com/Abdul-Moiz/AMProgressBar.git', :tag => s.version.to_s }
-  s.platform = :ios, '12.0'
+  s.platform = :ios, '10.0'
   s.swift_versions = '5'
 
   s.description      = <<-DESC
